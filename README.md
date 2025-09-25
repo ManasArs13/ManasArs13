@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Привет, я Арсен
 
-<!--
-**ManasArs13/ManasArs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend-разработчик (PHP / Laravel)  
+🚀 Опыт: 4+ лет коммерческой разработки  
+📍 Россия, готов к удалённой работе  
 
-Here are some ideas to get you started:
+### 🛠️ Стек и навыки
+- **Backend:** PHP 8+, Laravel 11/12, REST API, Websockets, очереди (Redis), PHPUnit  
+- **Frontend:** Livewire, Vue.js, Alpine.js, TailwindCSS, Bootstrap  
+- **Базы данных:** MySQL, PostgreSQL, SQL (оптимизация запросов)  
+- **Инфраструктура:** Nginx, Redis, Docker, CI/CD (GitHub Actions, GitLab CI)  
+- **Интеграции:** Telegram API, Яндекс.Карты, AmoCRM, МойСклад, ЮKassa, Wildberries API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты
+- Telegram: [@ars_manas](https://t.me/ars_manas)  
+- Email: [manasyan.a.s@ya.ru](mailto:manasyan.a.s@ya.ru)  
